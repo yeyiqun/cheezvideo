@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: 冰蓝
-@site: http://lanbing510.info
-"""
 
 import urllib.request
 import time
